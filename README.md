@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://christophecatherine.github.io/reactProjet2/).
+Découvrez Mon app ici [Mon app web](https://christophecatherine.github.io/reactProjet2/).
 
 ## Available Scripts
 
